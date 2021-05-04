@@ -1,7 +1,7 @@
 ## :pushpin: Music player
 #### :memo: Description: 
 
-Simple music player on vanilla JavaScript and Web Audio API
+Simple music player on vanilla JavaScript and Web Audio API.
 ___
 
 #### :link: Live Demo: 
