@@ -1,11 +1,11 @@
-## :red_circle: Music player
+## :pushpin: Music player
 #### :memo: Description: 
 
 - Simple music player on vanilla JavaScript and Web Audio API
 ___
 
-#### :thumbsup: Live Demo: 
- :link: [Music Player](https://vlad-yermolayev.github.io/music-player/)
+#### :link: Live Demo: 
+[Music Player](https://vlad-yermolayev.github.io/music-player/)
 ___
 
 #### :rocket: Technologies Used
