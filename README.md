@@ -5,7 +5,7 @@
 ___
 
 #### :link: Live Demo: 
-[Music Player](https://vlad-yermolayev.github.io/music-player/)
+  [Music Player](https://vlad-yermolayev.github.io/music-player/)
 ___
 
 #### :rocket: Technologies Used
